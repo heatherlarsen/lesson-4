@@ -16,3 +16,11 @@
 .pastry-page h5 {
   font-size: 32px;
 }
+
+.btn {
+	padding: 10px;
+	background-color: rgb(244, 209, 234);
+	border: none;
+	font-weight: bold;
+	margin-top: 10px;
+}

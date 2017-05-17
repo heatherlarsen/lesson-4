@@ -25,3 +25,28 @@ header h1 .cdr-word {
   text-transform: uppercase;
   width: 40%;
 }
+
+.cf {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.header-links {
+  width: 100%;
+}
+
+.header-links a {
+  font-size: 14px;
+  background: #fff;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.header-list {
+  float: left;
+}
+
+.header-basket {
+  float: right;
+}

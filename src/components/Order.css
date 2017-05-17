@@ -1,0 +1,25 @@
+table {
+	width: 100%;
+}
+
+thead {
+	text-align: left;
+}
+
+.btn-cell {
+	text-align: right;
+}
+
+.subtotal {
+	text-align: right;
+	padding-top: 20px;
+}
+
+.subtotal span {
+	font-weight: bold;
+}
+
+.clear-wrap {
+	text-align: center;
+	border-top: 1px solid #dedede;
+}
